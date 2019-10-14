@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/th-km/parcel-tailwind.git"
+    "url": "https://github.com/th-km/parcel-tailwind.git"
   },
   "scripts": {
     "clean": "rm -rf ./dist ./.cache",
