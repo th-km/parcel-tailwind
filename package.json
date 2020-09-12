@@ -19,7 +19,7 @@
 
     "parcel-bundler": "^1.12.4",
     "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^1.8.7"
+    "tailwindcss": "^1.8.8"
   },
   "browserslist": [
     "last 2 version",
